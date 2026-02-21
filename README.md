@@ -1,2 +1,2 @@
-# Ticket-Pilot
-Smart-Support Ticket Routing Engine
+# Deep-Shield
+An end-to-end synthetic image detection system built to identify AI-generated visuals.
